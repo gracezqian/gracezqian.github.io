@@ -9,7 +9,7 @@ profile:
   image: profilepic.heic
   image_circular: false # crops the image to make it circular
   more_info: >
-#    <p>555 your office number</p>
+    <p>555 your office number</p>
     <p>5055 Miller Woods Dr</p>
     <p>Decatur, Georgia 30035</p>
 
